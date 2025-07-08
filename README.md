@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Cloud Infrastructure Engineering, Terraform, Kubernetes, Azure, and Automation
+- 🔭 I’m currently working on Cloud Infrastructure Engineering, Terraform, Kubernetes, Azure, AWS, and Automation
 - 🌱 I’m currently looking to be certified via [Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) and [GitHub Actions](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5) Certifications
 - 📫 How to reach me: [@ez1222@mastodon.social](https://mastodon.social/@ez1222)
-- Interests: Star Wars, LEGO
+- Interests: Star Wars, LEGO, Reading
